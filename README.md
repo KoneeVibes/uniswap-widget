@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Link to Article - https://medium.com/@offymoren/integrating-uniswap-widget-in-cra-81dff373704b
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
